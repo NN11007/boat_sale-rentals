@@ -15,7 +15,7 @@ const Footer = () => {
 				Terms of Use
 				</li>
 				<li>
-					<a rel="noopener noreferrer" href="#">Privacy</a>
+					Privacy
 				</li>
 			</ul>
 		</div>
