@@ -12,7 +12,7 @@ const Footer = () => {
 			</div>
 			<ul className="flex flex-wrap items-center space-x-4 sm:space-x-8">
 				<li>
-					<a rel="noopener noreferrer" href="#">Terms of Use</a>
+				Terms of Use
 				</li>
 				<li>
 					<a rel="noopener noreferrer" href="#">Privacy</a>
@@ -21,13 +21,13 @@ const Footer = () => {
 		</div>
 		<ul className="flex flex-wrap pl-3 space-x-4 sm:space-x-8">
 			<li>
-				<a rel="noopener noreferrer" href="#">Instagram</a>
+			Instagram
 			</li>
 			<li>
-				<a rel="noopener noreferrer" href="#">Facebook</a>
+			Facebook
 			</li>
 			<li>
-				<a rel="noopener noreferrer" href="#">Twitter</a>
+			Twitter
 			</li>
 		</ul>
 	</div>
